@@ -47,7 +47,6 @@ WebSocket-driven real-time market dashboard with LLM explanations of price movem
 ## Background
 
 - **7+ years** at **EPAM Systems** on the **Mastercard** account — currently working on AI Agents & Agentic AI, previously: real-time trading data, financial analytics, enterprise React
-- **3 years** as **Senior SWE (Contract) at Google** — Redux.js, Microsoft Copilot integration, full-stack
 - **Teacher Assistant** at **Johns Hopkins University** (2023–2024)
 - **JHU Whiting School** — MS Computer Science: Deep Learning (A), Neural Networks (A-), DNN (B+)
 - **Stanford** — Machine Learning Specialization
