@@ -34,13 +34,9 @@ Finishing my **MS in Computer Science at Johns Hopkins** (Whiting School of Engi
 
 ## Currently building
 
-### 🚧 [Financial RAG Dashboard](https://github.com/juliajsbit/financial-rag-dashboard) *(in progress)*
-Real-time financial data analysis with LLM-powered Q&A. Ask questions about portfolios and market movements in natural language — get answers grounded in live data.
-`Next.js` · `Claude API` · `LangChain` · `D3.js` · `PostgreSQL` · `Vercel`
-
-### 🚧 [Market Prediction UI](https://github.com/juliajsbit/market-prediction-ui) *(in progress)*
-WebSocket-driven real-time market dashboard with LLM explanations of price movements. Built on patterns from 7 years of production fintech work at EPAM / Mastercard.
-`React` · `WebSockets` · `Recharts` · `LLM API` · `FastAPI`
+✅ Financial RAG Dashboard + LLM Eval Suite
+LLM-powered Q&A over live market data, with an automated evaluation harness on top: RAGAS metrics (faithfulness, context precision/recall) + LLM-as-judge over a golden dataset, and a GitHub Actions gate that blocks merges when LLM quality regresses. Faithfulness 0.98 on the full eval run.
+Python · RAGAS · LLM-as-judge · GitHub Actions · FastAPI · LangChain · Claude API · PostgreSQL/pgvector · Next.js
 
 ---
 
