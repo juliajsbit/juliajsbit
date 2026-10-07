@@ -2,7 +2,7 @@
 
 **Senior Software Engineer · AI Agents & Frontend AI · React + TypeScript + LLM**
 
-Mountain View, CA · [LinkedIn](https://www.linkedin.com/in/jhudev/) · Open to opportunities
+Mountain View, CA · Open to opportunities
 
 ---
 
